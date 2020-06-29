@@ -1,0 +1,4 @@
+<view class="intro">
+	<dialog wx:if='{{show}}' bindxxx="hide">今天天气很好</dialog>
+	<button bindtap="show">点击显示组件</button>
+</view>

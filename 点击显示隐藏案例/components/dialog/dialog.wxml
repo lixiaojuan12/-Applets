@@ -1,0 +1,6 @@
+<!--components/dialog/dialog.wxml-->
+<view class="wrapper" bindtap="hide">
+	<view class="contain">
+		<slot></slot>
+	</view>
+</view>
